@@ -1,0 +1,12 @@
+.jumbotron{
+    background-image: url('background.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+}
+
+#preview-text{
+    text-align: center;
+    margin: 1em;
+}
